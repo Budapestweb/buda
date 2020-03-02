@@ -71,7 +71,7 @@ h4,
 h5,
 h6 {
   font-family: "HK Grotesk";
-  color: #232323;
+  color: #141010;
   line-height: 1.4;
   font-weight: 600; }
 
@@ -342,7 +342,7 @@ ul {
   padding: 0 20px;
   text-align: center;
   text-transform: uppercase;
-  color: #232323;
+  color: #121212; /* cargar mas */
   border-radius: 30px;
   background-color: #ffffff;
   -webkit-transition: all 500ms;
@@ -774,7 +774,7 @@ ul {
       .poca-projects-menu .btn {
         font-size: 14px; } }
     .poca-projects-menu .btn.active {
-      color: #232323; }
+      color: #ffffff; }
       .poca-projects-menu .btn.active::after {
         position: absolute;
         bottom: 0;
@@ -786,7 +786,7 @@ ul {
         z-index: 1; }
     .poca-projects-menu .btn:focus, .poca-projects-menu .btn:hover {
       box-shadow: none;
-      color: #232323; }
+      color: #ffffff; }
 
 .poca-music-player.style-2 .audioplayer {
   background-color: transparent !important; }
@@ -927,7 +927,7 @@ ul {
   .breadcumb--con .breadcrumb .breadcrumb-item.active {
     font-size: 18px;
     text-transform: capitalize;
-    color: #232323;
+    color: #ffffff;
     font-weight: 500;
     letter-spacing: normal; }
     @media only screen and (max-width: 767px) {
@@ -966,7 +966,7 @@ ul {
     font-size: 42px;
     display: block;
     margin-bottom: 15px;
-    color: #232323;
+    color: #ffffff;
     font-weight: 600; }
     @media only screen and (max-width: 767px) {
       .single-blog-area .post-title {
