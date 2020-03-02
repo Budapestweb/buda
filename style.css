@@ -832,7 +832,7 @@ ul {
   z-index: 1;
   background-attachment: fixed; }
   .poca-newsletter-area .newsletter-content h2 {
-    color: #ffffff;
+    color: #aaaaaa; /* toque aca */
     font-size: 48px;
     margin-bottom: 5px; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
