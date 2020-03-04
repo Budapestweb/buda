@@ -379,7 +379,7 @@ ul {
     top: 0;
     width: 100%;
     position: fixed;
-    background-color: transparent;
+    background-color: #161616;
     box-shadow: 0 3px 50px rgba(0, 0, 0, 0.2);
     border-bottom: none;
     left: 0;
