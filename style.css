@@ -379,7 +379,7 @@ ul {
     top: 0;
     width: 100%;
     position: fixed;
-    background-color: #000000;
+    background-color: transparent;
     box-shadow: 0 3px 50px rgba(0, 0, 0, 0.2);
     border-bottom: none;
     left: 0;
@@ -451,7 +451,7 @@ ul {
   color: #ffffff; }
 
 .breakpoint-off .classynav ul li .dropdown {
-  background-color: #000000; }
+  background-color: transparent; }
 
 .classynav ul li .dropdown li a {
   border-bottom: none;
@@ -547,21 +547,21 @@ ul {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .breakpoint-on .classy-navbar .classy-menu {
-    background-color: #000000;
+    background-color: transparent;
     box-shadow: 0 0 30px 0 rgba(255, 255, 255, 0.2); }
 
   .breakpoint-on .classynav > ul > li > a {
-    background-color: #000000; }
+    background-color: transparent; }
 
   .classycloseIcon .cross-wrap span {
     background-color: #ffffff; } }
 @media only screen and (max-width: 767px) {
   .breakpoint-on .classy-navbar .classy-menu {
-    background-color: #000000;
+    background-color: transparent;
     box-shadow: 0 0 30px 0 rgba(255, 255, 255, 0.2); }
 
   .breakpoint-on .classynav > ul > li > a {
-    background-color: #000000; }
+    background-color: transparent; }
 
   .classycloseIcon .cross-wrap span {
     background-color: #ffffff; } }
