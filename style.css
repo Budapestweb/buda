@@ -1543,24 +1543,24 @@ ul {
   .contact-information .contact-heading h2 {
     display: block;
     margin-bottom: 5px;
-	color: #ffffff; /*color de Info de contacto*/
+	color: #ebe3e3; /*color de Info de contacto*/
     font-size: 36px; }
     @media only screen and (max-width: 767px) {
       .contact-information .contact-heading h2 {
         font-size: 24px; } }
   .contact-information .contact-heading h6 {
     margin-bottom: 30px;
-	color: #ffffff; /*color de  contestamos cualq de tus dudas*/
+	color: #ebe3e3; /*color de  contestamos cualq de tus dudas*/
     font-size: 18px; }
     @media only screen and (max-width: 767px) {
       .contact-information .contact-heading h6 {
         font-size: 14px; } }
   .contact-information .contact-heading p {
     margin-bottom: 0; 
-	color: #ffffff;/*color de texto de locuras*/}
+	color: #ebe3e3;/*color de texto de locuras*/}
   .contact-information h5 {
     margin-bottom: 10px;
-	color: #ffffff; /*color de direcciones*/
+	color: #ebe3e3; /*color de direcciones*/
     font-weight: 400; }
     @media only screen and (max-width: 767px) {
       .contact-information h5 {
@@ -1573,6 +1573,7 @@ ul {
     margin-bottom: 30px; }
     .contact-form .contact-heading h2 {
       display: block;
+	  color: #ebe3e3;
       margin-bottom: 5px;
       font-size: 36px; }
       @media only screen and (max-width: 767px) {
@@ -1580,6 +1581,7 @@ ul {
           font-size: 24px; } }
     .contact-form .contact-heading h5 {
       margin-bottom: 0;
+	  color: #ebe3e3;
       font-size: 18px; }
       @media only screen and (max-width: 767px) {
         .contact-form .contact-heading h5 {
