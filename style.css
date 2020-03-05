@@ -920,14 +920,14 @@ ul {
   padding: 30px 0;
   margin-bottom: 0;
   list-style: none;
-  background-color: #232323;
+  background-color: transparent;
   border-radius: 0; }
   .breadcumb--con .breadcrumb .breadcrumb-item,
   .breadcumb--con .breadcrumb .breadcrumb-item > a,
   .breadcumb--con .breadcrumb .breadcrumb-item.active {
     font-size: 18px;
     text-transform: capitalize;
-    color: #ffffff;
+    color: #f55656;
     font-weight: 500;
     letter-spacing: normal; }
     @media only screen and (max-width: 767px) {
