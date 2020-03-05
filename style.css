@@ -1191,7 +1191,7 @@ ul {
   max-width: calc(100% - 80px);
   width: calc(100% - 80px); }
   .post-details-text p {
-    color: #232323;
+    color: #ffffff;
     font-size: 18px; }
     @media only screen and (max-width: 767px) {
       .post-details-text p {
